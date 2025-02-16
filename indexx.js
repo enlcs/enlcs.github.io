@@ -26,8 +26,8 @@ function recientes() {
     var orden = tema + subtema;
       var orden = orden.toUpperCase().replace(/ /g,'').replace(/,/g,'').replace(/-/g,'').replace(/;/g,'').replace(/\[/g,'').replace(/\{/g,'').replace(/Á/g,'A').replace(/É/g,'E').replace(/Í/g,'I').replace(/Ó/g,'O').replace(/Ú/g,'U').replace(/Ü/g,'U').replace(/Ñ/g,'N');
     var directorios = 'mkdir -p "' + tema + '"';
-    var textoDocumento = 'echo -e "[' + dominio + '](' + url + ')\n" >> "' + tema + '/' + subtema + '.md';
-    var nuevaLinea = directorios + ' ¶¶¶ ' + textoDocumento;
+    var textoDocumento = 'echo -e "[' + dominio + '](' + url + ')\n" >> "' + tema + '/' + subtema + '.md"';
+    var nuevaLinea = directorios + ';' + textoDocumento + ';';
     resultado.push(nuevaLinea);
     contador = contador + 1;
     if (contador == 20) {break;}
