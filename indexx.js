@@ -25,7 +25,9 @@ function recientes() {
       var favicon = 'https://www.google.com/s2/favicons?domain=' + dominio + '&sz=128';
     var orden = tema + subtema;
       var orden = orden.toUpperCase().replace(/ /g,'').replace(/,/g,'').replace(/-/g,'').replace(/;/g,'').replace(/\[/g,'').replace(/\{/g,'').replace(/Á/g,'A').replace(/É/g,'E').replace(/Í/g,'I').replace(/Ó/g,'O').replace(/Ú/g,'U').replace(/Ü/g,'U').replace(/Ñ/g,'N');
-    var nuevaLinea = '<!--' + orden + '-->' + tema + '¶' + subtema + '¶' + url;
+    var directorios = 'mkdir -p "' + tema;
+    var textoDocumento = '[' + dominio + '](' + url + ')';
+    var nuevaLinea = directorios + ' ¶¶¶ ' + textoDocumento;
     resultado.push(nuevaLinea);
     contador = contador + 1;
     if (contador == 20) {break;}
