@@ -25,11 +25,10 @@ function recientes() {
       var favicon = 'https://www.google.com/s2/favicons?domain=' + dominio + '&sz=128';
     var orden = tema + subtema;
       var orden = orden.toUpperCase().replace(/ /g,'').replace(/,/g,'').replace(/-/g,'').replace(/;/g,'').replace(/\[/g,'').replace(/\{/g,'').replace(/Á/g,'A').replace(/É/g,'E').replace(/Í/g,'I').replace(/Ó/g,'O').replace(/Ú/g,'U').replace(/Ü/g,'U').replace(/Ñ/g,'N');
-    var enlace = '<a class="enlacista" href="' + url + '" target="_blank">' + url + '</a>';
-    var nuevaLinea = '<!--' + orden + '--><img id="favicones" src="' + favicon + '" /><b>' + tema + '</b> <span class="barrita">┋</span> ' + subtema + ' <span class="barrita">┋</span> ' + enlace;
+    var nuevaLinea = '<!--' + orden + '-->' + tema + '¶' + subtema + '¶' + url;
     resultado.push(nuevaLinea);
     contador = contador + 1;
-    if (contador == 12) {break;}
+    if (contador == 20) {break;}
   }
   resultado = resultado.sort((a, b) => a.localeCompare(b)); // ordenamiento alfabewtico
   resultado = [...new Set(resultado)]; // eliminar elementos repetidos
