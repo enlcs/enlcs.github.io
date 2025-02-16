@@ -1,1 +1,1 @@
-[https://dle.rae.es/salpullido](https://dle.rae.es/salpullido)
+[dle.rae.es](https://dle.rae.es/salpullido)
