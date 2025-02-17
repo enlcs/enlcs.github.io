@@ -1,0 +1,5 @@
+* [diccionario.reverso.net](https://diccionario.reverso.net/ingles-espanol/resort)
+* [dictionary.cambridge.org](https://dictionary.cambridge.org/dictionary/english-spanish/resort)
+* [www.collinsdictionary.com](https://www.collinsdictionary.com/dictionary/english-spanish/resort)
+* [www.linguee.es](https://www.linguee.es/ingles-espanol/traduccion/resort.html)
+* [www.spanishdict.com](https://www.spanishdict.com/translate/resort)
