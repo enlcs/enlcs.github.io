@@ -17,6 +17,7 @@ function recientes() {
     var linea = array[i].split(' ¶ ');
     var tema = linea[0];
     var subtema = linea[1];
+      var subtema = subtema.replace(/ -- /g,' - ');
     var url = linea[2];
       var dominio = url?.slice(url.indexOf('://') + 3);
       var dominio = dominio?.replace(/\/.*/g,'');
