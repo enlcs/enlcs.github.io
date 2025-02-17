@@ -1,6 +1,5 @@
 function recientes() {
   var array = base;
-  var contador = 0;
   var resultado = [];
   let temasTodos = [];
   for (var i = 0; i < array.length; i++) {
@@ -44,8 +43,6 @@ function recientes() {
     var textoDocumento = 'echo -e "[' + dominio + '](' + url + ')&#92;n" >> "' + tema + '/' + subtema + '.md"';
     var nuevaLinea = directorios + '; ' + textoDocumento + ';';
     resultado.push(nuevaLinea);
-    contador = contador + 1;
-    if (contador == 20) {break;}
   }
   resultado = resultado.sort((a, b) => a.localeCompare(b)); // ordenamiento alfabewtico
   resultado = [...new Set(resultado)]; // eliminar elementos repetidos
