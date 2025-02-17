@@ -21,9 +21,6 @@ function recientes() {
     var url = linea[2];
       var dominio = url?.slice(url.indexOf('://') + 3);
       var dominio = dominio?.replace(/\/.*/g,'');
-      if (dominio == 'youtu.be') {var dominio = 'www.youtube.com';}
-      if (dominio == 'goo.gl') {var dominio = 'maps.google.com';}
-      var favicon = 'https://www.google.com/s2/favicons?domain=' + dominio + '&sz=128';
     var orden = tema + subtema;
       var orden = orden.toUpperCase().replace(/ /g,'').replace(/,/g,'').replace(/-/g,'').replace(/;/g,'').replace(/\[/g,'').replace(/\{/g,'').replace(/Á/g,'A').replace(/É/g,'E').replace(/Í/g,'I').replace(/Ó/g,'O').replace(/Ú/g,'U').replace(/Ü/g,'U').replace(/Ñ/g,'N');
     var directorios = 'mkdir -p "' + tema + '"';
