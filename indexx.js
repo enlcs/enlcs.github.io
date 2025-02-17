@@ -40,7 +40,7 @@ function recientes() {
       var dominio = url?.slice(url.indexOf('://') + 3);
       var dominio = dominio?.replace(/\/.*/g,'');
     var directorios = 'mkdir -p "' + tema + '"';
-    var textoDocumento = 'echo -e "* [' + dominio + '](' + url + ')&#92;n" >> "' + tema + '/' + subtema + '.md"';
+    var textoDocumento = 'echo -e "* [' + dominio + '](' + url + ')" >> "' + tema + '/' + subtema + '.md"';
     var nuevaLinea = directorios + '; ' + textoDocumento + ';';
     resultado.push(nuevaLinea);
   }
