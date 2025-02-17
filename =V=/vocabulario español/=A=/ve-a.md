@@ -1,1 +1,0 @@
-Vocabulario español A.
