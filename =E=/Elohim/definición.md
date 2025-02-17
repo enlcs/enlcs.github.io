@@ -1,0 +1,2 @@
+* [es.quora.com](https://es.quora.com/Con-qui%C3%A9n-hablaba-Dios-cuando-en-G%C3%A9nesis-1-26-cuando-dice-Hagamos-al-hombre)
+* [watv.org](https://watv.org/es/bible_word/elohim/)
