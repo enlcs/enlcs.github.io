@@ -1,0 +1,8 @@
+* [developers.squarespace.com](https://developers.squarespace.com/what-is-json)
+* [en.wikipedia.org](https://en.wikipedia.org/wiki/JSON)
+* [ilovecoding.org](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it)
+* [javaee.github.io](https://javaee.github.io/tutorial/jsonp001.html)
+* [www.copterlabs.com](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/)
+* [www.infoworld.com](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html)
+* [www.javatpoint.com](https://www.javatpoint.com/what-is-json)
+* [www.w3schools.com](https://www.w3schools.com/whatis/whatis_json.asp)
