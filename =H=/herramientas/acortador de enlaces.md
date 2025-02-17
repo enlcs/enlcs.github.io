@@ -1,0 +1,5 @@
+* [anon.to](https://anon.to/)
+* [is.gd](https://is.gd/)
+* [t.ly](https://t.ly/twitter/url-shortener)
+* [tinyurl.com](https://tinyurl.com/app)
+* [v.gd](https://v.gd/)
