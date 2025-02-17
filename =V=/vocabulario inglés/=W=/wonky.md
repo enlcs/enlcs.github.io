@@ -1,0 +1,5 @@
+* [dictionary.cambridge.org](https://dictionary.cambridge.org/us/dictionary/english/wonky)
+* [www.dictionary.com](https://www.dictionary.com/browse/wonky)
+* [www.merriam-webster.com](https://www.merriam-webster.com/dictionary/wonky)
+* [www.thefreedictionary.com](https://www.thefreedictionary.com/wonky)
+* [www.vocabulary.com](https://www.vocabulary.com/dictionary/wonky)
