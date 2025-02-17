@@ -1,0 +1,8 @@
+* [biteproject.com](https://biteproject.com/anabaptismo/)
+* [ec.aciprensa.com](https://ec.aciprensa.com/wiki/Anabaptistas)
+* [es-academic.com](https://es-academic.com/dic.nsf/eswiki/78484)
+* [es.thefreedictionary.com](https://es.thefreedictionary.com/anabaptismo)
+* [es.wikipedia.org](https://es.wikipedia.org/wiki/Anabaptismo)
+* [wikizero.com](https://wikizero.com/index.php/es/Anabaptismo)
+* [www.definicionabc.com](https://www.definicionabc.com/historia/anabaptismo.php)
+* [www.ecured.cu](https://www.ecured.cu/Anabaptismo)
