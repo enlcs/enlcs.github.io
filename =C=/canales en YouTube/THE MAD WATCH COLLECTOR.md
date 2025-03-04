@@ -1,1 +1,1 @@
-* [www.youtube.com/@THEMADWATCHCOLLECTOR](https://www.youtube.com/@THEMADWATCHCOLLECTOR/videos)
+* [www.youtube.com](https://www.youtube.com/@THEMADWATCHCOLLECTOR/videos)
