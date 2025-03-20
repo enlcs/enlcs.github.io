@@ -1,1 +1,1 @@
-* [is.gd](https://is.gd/frtlzclv)
+* [is.gd/frtlzclv](https://is.gd/frtlzclv)
