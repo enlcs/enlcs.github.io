@@ -109,11 +109,10 @@
 <iframe frameborder='0' height='40px' scrolling='no' src='https://script.google.com/macros/s/AKfycbx2DDTmarg1RUqoSt4XmhyGtdK-lrmdmJbVGe01vtN0tWFBKi3mW_Z-uzMm-c8wWmb--A/exec' width='100%'/>
 
 <script>
-  var url = window.location.href;
     window.addEventListener("message",
       function (e) {
         if(e.origin == "https://script.google.com/macros/s/AKfycbx2DDTmarg1RUqoSt4XmhyGtdK-lrmdmJbVGe01vtN0tWFBKi3mW_Z-uzMm-c8wWmb--A/exec"){ return; }
-          document.getElementById("mostrar").innerHTML = e.data;
+          document.getElementById("mostrarAplicacionesAndroidEnlacista").innerHTML = e.data;
       },
     false);
 </script>
