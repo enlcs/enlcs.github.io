@@ -125,7 +125,7 @@
 <script>
     window.addEventListener("message",
       function (e) {
-        if(e.origin == "https://script.google.com/macros/s/AKfycbwoIGGnq52TYWBqRAX_H4JKtskR2jAkuKLSCfjNCx8mLGWeCfOyJ1K2ySF0b-HTd-db0g/exec"){ return; }
+        if(e.origin == "https://script.google.com"){ return; }
           document.getElementById("mostrar").innerHTML = e.data;
       },
     false);
