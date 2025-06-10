@@ -1,6 +1,0 @@
-* [sinonimos-online.com](https://sinonimos-online.com/busqueda-palabras/ignaro.html)
-* [sinonimos.de](https://sinonimos.de/ignaro/)
-* [www.buscapalabra.com](https://www.buscapalabra.com/sinonimos-y-antonimos.html?palabra=ignaro&sinonimos=true&antonimos=true#resultados)
-* [www.definiciones-de.com](https://www.definiciones-de.com/Sinonimos/de/ignaro.php)
-* [www.sinonimosgratis.com](https://www.sinonimosgratis.com/ignaro)
-* [www.wordreference.com](https://www.wordreference.com/sinonimos/ignaro)
