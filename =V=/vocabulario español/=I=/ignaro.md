@@ -1,5 +1,0 @@
-* [dem.colmex.mx](https://dem.colmex.mx/ver/ignaro)
-* [diccionario.reverso.net](https://diccionario.reverso.net/espanol-definiciones/ignaro)
-* [dle.rae.es](https://dle.rae.es/ignaro)
-* [es.thefreedictionary.com](https://es.thefreedictionary.com/ignaro)
-* [etimologias.dechile.net](https://etimologias.dechile.net/?ignaro)
