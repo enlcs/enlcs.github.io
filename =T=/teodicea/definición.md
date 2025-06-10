@@ -1,8 +1,0 @@
-* [deconceptos.com](https://deconceptos.com/ciencias-sociales/teodicea)
-* [definicion.de](https://definicion.de/teodicea/)
-* [ec.aciprensa.com](https://ec.aciprensa.com/wiki/Teodicea)
-* [es.wikipedia.org](https://es.wikipedia.org/wiki/Teodicea)
-* [www.definicionabc.com](https://www.definicionabc.com/ciencia/teodicea.php)
-* [www.filosofia.org](https://www.filosofia.org/enc/ece/e50393.htm)
-* [www.filosofia.org](https://www.filosofia.org/enc/ros/teod.htm)
-* [www.significados.com](https://www.significados.com/teodicea/)
